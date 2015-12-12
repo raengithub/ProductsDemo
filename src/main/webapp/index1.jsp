@@ -27,15 +27,6 @@
    	</head>
 
 	<body>
-	   <h1>Pojo to Json Serialization using Jersey with Jackson for Java REST Services</h1>
-	   <ul>
-	       <li><a href="<%=request.getContextPath() %>/service/message"><%=request.getContextPath() %>/service/message</a></li>
-	       <li><a href="<%=request.getContextPath() %>/service/message/ping"><%=request.getContextPath() %>/service/message/ping</a></li>
-	       <li><a href="<%=request.getContextPath() %>/service/person/get"><%=request.getContextPath() %>/service/person/get</a></li>
-           <li><button id="postPerson">Post Person</button></li>
-           <li><button id="postMessage">Post Message</button></li>
-	   </ul>
-           
     </body>
     
 </html>
