@@ -1,0 +1,7 @@
+com/self/test/core/Constant.class
+com/self/test/application/ApplicationConfig.class
+com/self/test/core/DatabaseUtility.class
+com/self/test/resource/ProductResource.class
+com/self/test/model/Product.class
+com/self/test/model/Id.class
+com/self/test/provider/MyJacksonJsonProvider.class
