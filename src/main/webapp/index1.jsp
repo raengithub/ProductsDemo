@@ -4,9 +4,7 @@
 <html>
 	
 	<head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Pojo to Json Serialization using Jersey with Jackson for Java REST Services</title>
-        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
         <script src="<%=request.getContextPath() %>/js/jquery-1.11.2.min.js"></script>
         <script>
             var ctxPath = "<%=request.getContextPath() %>";
